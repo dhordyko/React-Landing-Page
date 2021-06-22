@@ -1,0 +1,21 @@
+.footer{
+
+    bottom:0;
+    left:0;
+    height:auto;
+    background-color: var(--black-color);
+    width:100%;
+}
+.container{
+  padding-top:50px;
+}
+.logo{
+    width: 350px;
+    max-width: 100%;
+    height: auto; 
+}
+
+.footer_item {
+    color:white;
+    line-height: 25px;
+}

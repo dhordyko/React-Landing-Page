@@ -1,0 +1,28 @@
+[
+    {
+      "id" : "1",
+      "text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "author":"Anna W. Utrecht"
+    },
+    {
+      "id" : "2",
+      "text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "author":"Anna W. Utrecht"
+    },
+    {
+      "id" : "3",
+      "text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "author":"Anna W. Utrecht"
+    } ,
+    {
+        "id" : "4",
+        "text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "author":"Anna W. Utrecht"
+      }, 
+      {
+        "id" : "5",
+        "text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "author":"Anna W. Utrecht"
+      } 
+   
+ ] 

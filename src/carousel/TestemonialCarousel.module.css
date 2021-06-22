@@ -1,0 +1,31 @@
+:global .sliderTestimonials{
+    height:350px;
+    background:#D4D4D4;
+    padding:50px 0px;
+}
+:global(.testimonial-container){
+font-size:12px;
+width:300px;
+padding:15px;
+}
+:global(.sliderTestimonials .carousel-control-prev-icon),:global(.sliderTestimonials .carousel-control-next-icon){
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+    opacity: .5;
+    transition: opacity .15s ease;
+    }
+    :global(.testimonial-inner-box){
+        display: flex;
+        justify-content: space-between;
+    }
+    .Title{
+        text-align:left;
+    }
